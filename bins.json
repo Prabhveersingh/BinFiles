@@ -1,10 +1,10 @@
 [
   {
-    "name": "Voltas AC",
-    "url": "https://raw.githubusercontent.com/Prabhveersingh/BinFiles/main/BINS/Voltas_ac.bin"
+    "name": "Voltas_ac.bin",
+    "url": "https://raw.githubusercontent.com/Prabhveersingh/BinFiles/main/Voltas_ac.bin"
   },
   {
-    "name": "BlueStar AC",
-    "url": "https://raw.githubusercontent.com/Prabhveersingh/BinFiles/main/BINS/bluestar_ac-2.bin"
+    "name": "bluestar_ac-2.bin",
+    "url": "https://raw.githubusercontent.com/Prabhveersingh/BinFiles/main/bluestar_ac-2.bin"
   }
 ]
